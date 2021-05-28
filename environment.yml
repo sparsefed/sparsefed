@@ -1,0 +1,12 @@
+name: comm
+channels:
+  - pytorch
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch
+  - numpy
+  - torchvision
+  - tensorboard
+  - scipy
