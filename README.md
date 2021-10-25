@@ -1,6 +1,6 @@
 ### READ THIS FIRST
 
-This repo is an anonymized version of an existing repository of GitHub, for the NeurIPS 2021 submission: SparseFed: Provably Defending Against Backdoor Attacks in Federated Learning with Sparsification. So if you see another repo that looks identical to this, we are not stealing anyone's code, that's my repo.
+This repo is an anonymized version of an existing repository of GitHub, for the AIStats 2021 submission: SparseFed: Mitigating Model Poisoning Attacks in Federated Learning with Sparsification. So if you see another repo that looks identical to this, we are not stealing anyone's code, that's my repo.
 
 # SparseFed
 
